@@ -3,8 +3,8 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas pela Impacta Tecnologia.
-- 🌱 &nbsp; Aprendendo sobre desenvolvimento back end.
+- 🎓 &nbsp; Formada Análise e Desenvolvimento de Sistemas pela Impacta Tecnologia.
+- 🌱 &nbsp; Engenheira de Software no Pagbank.
 - ✍️ &nbsp; Tenho como hobbie fotografia/ jogos 🎮.
 
 <br/>

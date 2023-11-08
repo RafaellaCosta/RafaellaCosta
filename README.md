@@ -4,8 +4,35 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formada Análise e Desenvolvimento de Sistemas pela Impacta Tecnologia.
-- 🌱 &nbsp; Engenheira de Software no Pagbank.
+- 💼 &nbsp; Engenheira de Software no Pagbank.
 - ✍️ &nbsp; Tenho como hobbie fotografia/ jogos 🎮.
+  
+<br/>
+
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Postgres](https://img.shields.io/badge/-Postegres-333333?style=flat&logo=postegres)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntellijIDA](https://img.shields.io/badge/-IntellijIDA-333333?style=flat&logo=intellij-ida-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
 

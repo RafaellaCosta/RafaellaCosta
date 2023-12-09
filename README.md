@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando o mundo da tecnologia, um byte de cada vez.
 - 🎓 &nbsp; Formada Análise e Desenvolvimento de Sistemas pela Impacta Tecnologia.
 - 💼 &nbsp; Engenheira de Software no Pagbank.
 - ✍️ &nbsp; Tenho como hobbie fotografia/ jogos 🎮.

@@ -1,50 +1,96 @@
-<h1> Olá! Me chamo Rafaella Costa.</h1>
+# 👋 Olá! Eu sou Rafaella Costa
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-
-- 🤔 &nbsp; Explorando o mundo da tecnologia, um byte de cada vez.
-- 🎓 &nbsp; Formada Análise e Desenvolvimento de Sistemas pela Impacta Tecnologia.
-- 💼 &nbsp; Engenheira de Software no Pagbank.
-- ✍️ &nbsp; Tenho como hobbie fotografia/ jogos 🎮.
+<div align="center">
   
-<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6633cc&size=35&center=true&vCenter=true&width=1000&lines=Engenheira+de+Software+no+Pagbank;Explorando+o+mundo+da+tecnologia;Um+byte+de+cada+vez...+💜)
 
-<h3>Minhas Skills</h3>
+</div>
 
-**Aplicações e dados**
+## 🙋‍♀️ Sobre mim
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/-Postegres-333333?style=flat&logo=postegres)
+🤔 &nbsp; **Explorando o mundo da tecnologia, um byte de cada vez**  
+🎓 &nbsp; **Formada em Análise e Desenvolvimento de Sistemas** pela Impacta Tecnologia  
+💼 &nbsp; **Engenheira de Software** no Pagbank  
+🚀 &nbsp; Sempre em busca de **novos desafios** e **aprendizados**  
 
-**Utilidades**
+---
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+## 🛠️ Stack Tecnológica
 
-**DevOps**
+### 💻 **Linguagens & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### 🗄️ **Banco de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-**Ferramentas de desenvolvimento**
+### 🔧 **Ferramentas & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntellijIDA](https://img.shields.io/badge/-IntellijIDA-333333?style=flat&logo=intellij-ida-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+### 💡 **IDEs & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
+</p>
 
-<br/>
+---
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=RafaellaCosta&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellaCosta&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaCosta&layout=compact&theme=radical"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaCosta&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellaCosta&theme=radical" alt="GitHub Streak"/>
+</div>
 
+---
 
-<br/>
+## 🚀 Projetos em Destaque
 
-<h2> 🤝🏻 &nbsp;Connect with Me </h2>
+### 📚 **VersusBook API**
+> *Uma API robusta para comparação de livros*
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafaella%20Costa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellacosta/)](https://www.linkedin.com/in/rafaellacosta/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaellamcp@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaellamcp@gmail.com)](mailto:rafaellamcp@gmail.com)
+**🔧 Tecnologias:** Java 17, Spring Boot, Clean Architecture, OpenAPI  
+**✨ Características:**
+- Arquitetura limpa e escalável
+- Documentação automática com Swagger
+- Testes unitários
+- Sistema de comparação inteligente
+
+[🔗 Ver Repositório](https://github.com/RafaellaCosta/versusbook) | [📖 Documentação](./run.md)
+
+---
+
+## 🎯 O que me motiva
+
+```java
+public class RafaellaCosta {
+    private String[] interests = {
+        "Clean Code & Best Practices",
+        "Arquitetura de Software",
+        "Desenvolvimento de APIs",
+        "Testes Automatizados",
+        "Aprendizado Contínuo"
+    };
+    
+    public String getCurrentFocus() {
+        return "Criando soluções que fazem a diferença! 💜";
+    }
+}
+```
+
+**💜 Obrigada pela visita! Sempre aberta para colaborações e novos desafios!**

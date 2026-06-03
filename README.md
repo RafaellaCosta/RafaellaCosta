@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6633cc&size=35&center=true&vCenter=true&width=1000&lines=Engenheira+de+Software+no+Pagbank;Explorando+o+mundo+da+tecnologia;Um+byte+de+cada+vez...+💜)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6633cc&size=35&center=true&vCenter=true&width=1000&lines=Engenheira+de+Software+no+MercadoLivre;Explorando+o+mundo+da+tecnologia;Um+byte+de+cada+vez...+💜)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 🤔 &nbsp; **Explorando o mundo da tecnologia, um byte de cada vez**  
 🎓 &nbsp; **Formada em Análise e Desenvolvimento de Sistemas** pela Impacta Tecnologia  
-💼 &nbsp; **Engenheira de Software** no Pagbank  
+💼 &nbsp; **Engenheira de Software** no Mercado Livre  
 🚀 &nbsp; Sempre em busca de **novos desafios** e **aprendizados**  
 
 ---

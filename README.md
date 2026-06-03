@@ -46,19 +46,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellaCosta&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaCosta&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellaCosta&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 📚 **VersusBook API**
